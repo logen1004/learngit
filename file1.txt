@@ -1,2 +1,2 @@
 Git is really easy!
-Git is free!
+Git is free software!
