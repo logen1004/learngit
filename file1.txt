@@ -1,5 +1,5 @@
 Git is really easy!
 Git is free software!
 Git has a mutable index called stag
-Creating a branch is really quick
+Creating a branch is really quick & simple
 Git tracks changes of files!
